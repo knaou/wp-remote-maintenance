@@ -9,7 +9,7 @@ TEMPORARY_DIR=
 WP_DIR=
 SSH_HOST=
 SSH_PORT=22
-APPLY=
+CHECK=
 
 function usage_exit {
   cat <<-EOF >&2
